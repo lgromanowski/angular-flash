@@ -1,7 +1,7 @@
 # angular-flash
 
 [![Build Status](https://travis-ci.org/lgromanowski/angular-flash.png?branch=master)](https://travis-ci.org/lgromanowski/angular-flash)
-[![Coverage Status](https://coveralls.io/repos/lgromanowski/angular-flash/badge.png?branch=master)](https://coveralls.io/r/lgromanowski/angular-flash?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/lgromanowski/angular-flash/badge.svg?branch=master)](https://coveralls.io/github/lgromanowski/angular-flash?branch=master)
 
 A flash service and directive for setting and displaying flash messages in [Angular JS](http://angularjs.org).  Specifically, the flash service is a publisher of flash messages and the flash directive is a subscriber to flash messages.  The flash directive leverages the Twitter Bootstrap Alert component.
 
