@@ -1,7 +1,7 @@
 # angular-flash
 
-[![Build Status](https://travis-ci.org/wmluke/angular-flash.png?branch=master)](https://travis-ci.org/wmluke/angular-flash)
-[![Coverage Status](https://coveralls.io/repos/wmluke/angular-flash/badge.png?branch=master)](https://coveralls.io/r/wmluke/angular-flash?branch=master)
+[![Build Status](https://travis-ci.org/lgromanowski/angular-flash.png?branch=master)](https://travis-ci.org/lgromanowski/angular-flash)
+[![Coverage Status](https://coveralls.io/repos/lgromanowski/angular-flash/badge.png?branch=master)](https://coveralls.io/r/lgromanowski/angular-flash?branch=master)
 
 A flash service and directive for setting and displaying flash messages in [Angular JS](http://angularjs.org).  Specifically, the flash service is a publisher of flash messages and the flash directive is a subscriber to flash messages.  The flash directive leverages the Twitter Bootstrap Alert component.
 
